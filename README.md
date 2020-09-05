@@ -1,3 +1,3 @@
 # owlmvp2020
  vote
-cannot be used not after Google recaptcha v3 added
+cannot be used now after Google recaptcha v3 added
